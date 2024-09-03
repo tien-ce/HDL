@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Risingedge.v" \
+"../../../../../add/add.srcs/sources_1/new/add.v" \
+"../../../../../control/control.srcs/sources_1/new/control.v" \
+"../../../../control_all.srcs/sources_1/new/control_all.v" \
+"../../../../../normal/normal.srcs/sources_1/new/create1hz.v" \
+"../../../../../reset/reset.srcs/sources_1/new/reset.v" \
+"../../../../control_all.srcs/sim_1/new/control_all_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,22 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/thuyh/OneDrive/Documents/Risingedge.v,1717300639,verilog,,C:/Users/thuyh/OneDrive/Documents/alarm/project_5.srcs/sources_1/new/alarm.v,,RisingEdgeDetector,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/alarm/project_5.srcs/sources_1/new/alarm.v,1717395747,verilog,,C:/Users/thuyh/OneDrive/Documents/alarm/project_5.srcs/sources_1/new/alarm_hour.v,,alarm,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/alarm/project_5.srcs/sources_1/new/alarm_hour.v,1717396224,verilog,,C:/Users/thuyh/OneDrive/Documents/alarm/project_5.srcs/sources_1/new/alram_min.v,,alarm_hour,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/alarm/project_5.srcs/sources_1/new/alram_min.v,1717396240,verilog,,C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter.v,,alarm_min,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter.v,1717408194,verilog,,C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_hour.v,,counter,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_hour.v,1717406947,verilog,,C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_min.v,,counter_hour,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_min.v,1717406972,verilog,,C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_second.v,,counter_min,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_second.v,1717406993,verilog,,C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_sum.v,,counter_second,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_sum.v,1717411154,verilog,,C:/Users/thuyh/OneDrive/Documents/function/function.srcs/sources_1/new/function.v,,counter_sum,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/pause.v,1717497766,verilog,,C:/Users/thuyh/OneDrive/Documents/function/function.srcs/sim_1/new/counter_all_tb.v,,pause,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/function/function.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/function/function.srcs/sim_1/new/counter_all_tb.v,1717500358,verilog,,,,tb_counter_all,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/function/function.srcs/sources_1/new/function.v,1717495780,verilog,,C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal.v,,counter_all,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal.v,1717482858,verilog,,C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_hour.v,,normal,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_hour.v,1717334606,verilog,,C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_min.v,,normal_hour,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_min.v,1717337085,verilog,,C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_second.v,,normal_min,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_second.v,1717334357,verilog,,C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_sum.v,,normal_second,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_sum.v,1717499752,verilog,,C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/pause.v,,normal_sum,,,,,,,,

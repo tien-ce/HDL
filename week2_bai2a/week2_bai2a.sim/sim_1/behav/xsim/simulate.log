@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+                   0 : Input_0: 1 Input_1: 0 Select: 0  -- Output: 1
+                5000 : Input_0: 1 Input_1: 0 Select: 1  -- Output: 0
+               10000 : Input_0: 1 Input_1: 1 Select: 1  -- Output: x
+               15000 : Input_0: 1 Input_1: 0 Select: 1  -- Output: 0
+               20000 : Input_0: 0 Input_1: 0 Select: 1  -- Output: 0
+               25000 : Input_0: 0 Input_1: 0 Select: 0  -- Output: 0

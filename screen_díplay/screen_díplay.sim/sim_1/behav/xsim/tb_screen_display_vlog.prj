@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../week2_bai3/week2_bai3.srcs/sources_1/new/bin2led7.v" \
+"../../../../../bin2_led7_2/bin2_led7_2.srcs/sources_1/new/bin2led7_2led.v" \
+"../../../../../Mux_3_to_1/Mux_3_to_1.srcs/sources_1/new/mux_3to1.v" \
+"../../../../screen_díplay.srcs/sources_1/new/screen_display.v" \
+"../../../../screen_díplay.srcs/sim_1/new/screen_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

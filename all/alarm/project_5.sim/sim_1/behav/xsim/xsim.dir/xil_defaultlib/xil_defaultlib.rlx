@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/thuyh/OneDrive/Documents/Risingedge.v,1717300639,verilog,,C:/Users/thuyh/OneDrive/Documents/project_5/project_5.srcs/sources_1/new/alarm.v,,RisingEdgeDetector,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/project_5/project_5.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/project_5/project_5.srcs/sim_1/new/alarmtb.v,1717396147,verilog,,,,alarm_tb,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/project_5/project_5.srcs/sources_1/new/alarm.v,1717395747,verilog,,C:/Users/thuyh/OneDrive/Documents/project_5/project_5.srcs/sources_1/new/alarm_hour.v,,alarm,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/project_5/project_5.srcs/sources_1/new/alarm_hour.v,1717396224,verilog,,C:/Users/thuyh/OneDrive/Documents/project_5/project_5.srcs/sources_1/new/alram_min.v,,alarm_hour,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/project_5/project_5.srcs/sources_1/new/alram_min.v,1717395404,verilog,,C:/Users/thuyh/OneDrive/Documents/project_5/project_5.srcs/sim_1/new/alarmtb.v,,alarm_min,,,,,,,,

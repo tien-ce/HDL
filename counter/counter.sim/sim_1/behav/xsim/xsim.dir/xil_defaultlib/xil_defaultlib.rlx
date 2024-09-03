@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/thuyh/OneDrive/Documents/Risingedge.v,1717300639,verilog,,C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/counter.v,,RisingEdgeDetector,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter/counter.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sim_1/new/counter_tb.v,1717403043,verilog,,,,counter_tb,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/counter.v,1717401581,verilog,,C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/counter_hour.v,,counter,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/counter_hour.v,1717397085,verilog,,C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/counter_min.v,,counter_hour,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/counter_min.v,1717397131,verilog,,C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/counter_second.v,,counter_min,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/counter_second.v,1717397184,verilog,,C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/counter_sum.v,,counter_second,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/counter_sum.v,1717400664,verilog,,C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/pause.v,,counter_sum,,,,,,,,
+C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sources_1/new/pause.v,1717403533,verilog,,C:/Users/thuyh/OneDrive/Documents/counter/counter.srcs/sim_1/new/counter_tb.v,,pause,,,,,,,,

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Checkpoint Version="21" Minor="0">
+	<BUILD_NUMBER Name="4029153"/>
+	<FULL_BUILD Name="SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023"/>
+	<PRODUCT Name="Vivado v2023.2 (64-bit)"/>
+	<Part Name="xc7z020clg400-1"/>
+	<FeatureSet Name="FeatureSet_Classic"/>
+	<BoardPart Name="digilentinc.com:arty-z7-20:part0:1.1"/>
+	<Top Name="digital_clock"/>
+	<DisableAutoIOBuffers Name="0"/>
+	<OutOfContext Name="0"/>
+	<MacroLevel Name="1"/>
+	<RunGenerated Name="1"/>
+	<HDPlatform Name="0"/>
+	<File Type="VERILOG_STUB" Name="digital_clock_stub.v" ModTime="1717937265"/>
+	<File Type="VHDL_STUB" Name="digital_clock_stub.vhdl" ModTime="1717937265"/>
+	<File Type="PARAMXML" Name="digital_clock_param.xml" ModTime="1717937265"/>
+	<File Type="PARAMXML" Name="digital_clock_param.xml" ModTime="1717937265"/>
+	<File Type="SHAPE" Name="digital_clock.shape" ModTime="1717937265"/>
+	<File Type="XN" Name="digital_clock.xn" ModTime="1717937265"/>
+	<File Type="EDIF" Name="digital_clock.edf" ModTime="1717937265"/>
+	<File Type="INCR" Name="digital_clock.incr" ModTime="1717937265"/>
+	<File Type="RDA" Name="digital_clock.rda" ModTime="1717937265"/>
+	<File Type="JSON_RDA" Name="digital_clock_rda.json" ModTime="1717937265"/>
+	<File Type="WDF" Name="digital_clock.wdf" ModTime="1717937265"/>
+	<File Type="SYNTH" Name="digital_clock.synth" ModTime="1717937265"/>
+</Checkpoint>
+

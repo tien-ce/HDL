@@ -1,0 +1,71 @@
+
+*** Running vivado
+    with args -log counter_all.vdi -applog -m64 -product Vivado -messageDb vivado.pb -mode batch -source counter_all.tcl -notrace
+
+
+ECHO is off.
+ECHO is off.
+
+****** Vivado v2023.2 (64-bit)
+  **** SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+  **** IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+  **** SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+
+source counter_all.tcl -notrace
+create_project: Time (s): cpu = 00:00:10 ; elapsed = 00:00:14 . Memory (MB): peak = 456.156 ; gain = 181.559
+Command: link_design -top counter_all -part xc7z010iclg225-1L
+Design is defaulting to srcset: sources_1
+Design is defaulting to constrset: constrs_1
+INFO: [Device 21-403] Loading part xc7z010iclg225-1L
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.010 . Memory (MB): peak = 856.961 ; gain = 0.000
+INFO: [Netlist 29-17] Analyzing 94 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2023.2
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Read ShapeDB Complete: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.011 . Memory (MB): peak = 946.484 ; gain = 0.102
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 946.695 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+The system cannot find the path specified.
+6 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+link_design completed successfully
+link_design: Time (s): cpu = 00:00:07 ; elapsed = 00:00:12 . Memory (MB): peak = 974.586 ; gain = 518.430
+Command: opt_design
+Attempting to get a license for feature 'Implementation' and/or device 'xc7z010i'
+INFO: [Common 17-349] Got license for feature 'Implementation' and/or device 'xc7z010i'
+Running DRC as a precondition to command opt_design
+
+Starting DRC Task
+INFO: [DRC 23-27] Running DRC with 2 threads
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net counter1/p1/pause_out has multiple drivers: counter1/p1/out_reg/Q, and counter1/p1/out_reg__0/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[0] has multiple drivers: normal1/sum1/counter_sum_reg[0]/Q, and normal1/sum1/counter_sum_reg[0]__0/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[10] has multiple drivers: normal1/sum1/counter_sum_reg[10]__0/Q, and normal1/sum1/counter_sum_reg[10]/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[11] has multiple drivers: normal1/sum1/counter_sum_reg[11]__0/Q, and normal1/sum1/counter_sum_reg[11]/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[12] has multiple drivers: normal1/sum1/counter_sum_reg[12]__0/Q, and normal1/sum1/counter_sum_reg[12]/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[13] has multiple drivers: normal1/sum1/counter_sum_reg[13]/Q, and normal1/sum1/counter_sum_reg[13]__0/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[14] has multiple drivers: normal1/sum1/counter_sum_reg[14]__0/Q, and normal1/sum1/counter_sum_reg[14]/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[15] has multiple drivers: normal1/sum1/counter_sum_reg[15]/Q, and normal1/sum1/counter_sum_reg[15]__0/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[16] has multiple drivers: normal1/sum1/counter_sum_reg[16]__0/Q, and normal1/sum1/counter_sum_reg[16]/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[1] has multiple drivers: normal1/sum1/counter_sum_reg[1]__0/Q, and normal1/sum1/counter_sum_reg[1]/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[2] has multiple drivers: normal1/sum1/counter_sum_reg[2]__0/Q, and normal1/sum1/counter_sum_reg[2]/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[3] has multiple drivers: normal1/sum1/counter_sum_reg[3]/Q, and normal1/sum1/counter_sum_reg[3]__0/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[4] has multiple drivers: normal1/sum1/counter_sum_reg[4]/Q, and normal1/sum1/counter_sum_reg[4]__0/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[5] has multiple drivers: normal1/sum1/counter_sum_reg[5]/Q, and normal1/sum1/counter_sum_reg[5]__0/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[6] has multiple drivers: normal1/sum1/counter_sum_reg[6]__0/Q, and normal1/sum1/counter_sum_reg[6]/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[7] has multiple drivers: normal1/sum1/counter_sum_reg[7]__0/Q, and normal1/sum1/counter_sum_reg[7]/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[8] has multiple drivers: normal1/sum1/counter_sum_reg[8]__0/Q, and normal1/sum1/counter_sum_reg[8]/Q.
+ERROR: [DRC MDRV-1] Multiple Driver Nets: Net normal1/sum1/Q[9] has multiple drivers: normal1/sum1/counter_sum_reg[9]__0/Q, and normal1/sum1/counter_sum_reg[9]/Q.
+INFO: [Project 1-461] DRC finished with 18 Errors
+INFO: [Project 1-462] Please refer to the DRC report (report_drc) for more information.
+ERROR: [Vivado_Tcl 4-78] Error(s) found during DRC. Opt_design not run.
+
+Time (s): cpu = 00:00:03 ; elapsed = 00:00:02 . Memory (MB): peak = 1000.480 ; gain = 25.895
+INFO: [Common 17-83] Releasing license: Implementation
+11 Infos, 0 Warnings, 0 Critical Warnings and 19 Errors encountered.
+opt_design failed
+ERROR: [Common 17-39] 'opt_design' failed due to earlier errors.
+
+INFO: [Common 17-206] Exiting Vivado at Tue Jun  4 17:12:29 2024...

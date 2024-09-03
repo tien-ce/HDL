@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib "C:/Users/thuyh/OneDrive/Documents/week1/week1.srcs/sources_1/new/w1_bai1b.v" --include "../../../../../week1/week1.srcs/sources_1/new" \
+"../../../../../week1/week1.srcs/sources_1/new/w1.v" \
+"../../../../week2_bai2a.srcs/sources_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

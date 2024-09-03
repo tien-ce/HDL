@@ -1,0 +1,7 @@
+Running: xsim.dir/bin2led7_2led_tb_behav/xsimk.exe -simmode gui -wdb bin2led7_2led_tb_behav.wdb -simrunnum 0 -socket 53720
+Design successfully loaded
+Design Loading Memory Usage: 8636 KB (Peak: 8636 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 9220 KB (Peak: 9220 KB)
+Simulation CPU Usage: 31 ms

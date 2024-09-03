@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="debug2_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="debug2_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="647.001 ns"></ZoomEndTime>
+      <Cursor1Time time="30.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="108"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="46" />
+   <wvobject fp_name="/debug2_tb/add1hour_normal" type="logic">
+      <obj_property name="ElementShortName">add1hour_normal</obj_property>
+      <obj_property name="ObjectShortName">add1hour_normal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/add1min_normal" type="logic">
+      <obj_property name="ElementShortName">add1min_normal</obj_property>
+      <obj_property name="ObjectShortName">add1min_normal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/add1hour_alarm" type="logic">
+      <obj_property name="ElementShortName">add1hour_alarm</obj_property>
+      <obj_property name="ObjectShortName">add1hour_alarm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/add1min_alarm" type="logic">
+      <obj_property name="ElementShortName">add1min_alarm</obj_property>
+      <obj_property name="ObjectShortName">add1min_alarm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/pause_counter" type="logic">
+      <obj_property name="ElementShortName">pause_counter</obj_property>
+      <obj_property name="ObjectShortName">pause_counter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/clk_1hz" type="logic">
+      <obj_property name="ElementShortName">clk_1hz</obj_property>
+      <obj_property name="ObjectShortName">clk_1hz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/rst_normal" type="logic">
+      <obj_property name="ElementShortName">rst_normal</obj_property>
+      <obj_property name="ObjectShortName">rst_normal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/rst_alarm" type="logic">
+      <obj_property name="ElementShortName">rst_alarm</obj_property>
+      <obj_property name="ObjectShortName">rst_alarm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/rst_counter" type="logic">
+      <obj_property name="ElementShortName">rst_counter</obj_property>
+      <obj_property name="ObjectShortName">rst_counter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/control" type="logic">
+      <obj_property name="ElementShortName">control</obj_property>
+      <obj_property name="ObjectShortName">control</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/led_out_hour1_n" type="array">
+      <obj_property name="ElementShortName">led_out_hour1_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_hour1_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/led_out_hour2_n" type="array">
+      <obj_property name="ElementShortName">led_out_hour2_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_hour2_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/led_out_min1_n" type="array">
+      <obj_property name="ElementShortName">led_out_min1_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_min1_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/led_out_min2_n" type="array">
+      <obj_property name="ElementShortName">led_out_min2_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_min2_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/led_out_second1_n" type="array">
+      <obj_property name="ElementShortName">led_out_second1_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_second1_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/led_out_second2_n" type="array">
+      <obj_property name="ElementShortName">led_out_second2_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_second2_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/counter_all3/normal1/add1_hour" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">add1_hour</obj_property>
+      <obj_property name="ObjectShortName">add1_hour</obj_property>
+      <obj_property name="label">add1_hour_normal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/counter_all3/normal1/add1_min" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">add1_min</obj_property>
+      <obj_property name="ObjectShortName">add1_min</obj_property>
+      <obj_property name="label">add1_min_normal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/counter_all3/normal1/rst" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+      <obj_property name="label">rst_normal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/counter_all3/normal1/clk_1hz" type="logic">
+      <obj_property name="ElementShortName">clk_1hz</obj_property>
+      <obj_property name="ObjectShortName">clk_1hz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/counter_all3/normal1/add1_hour_bn" type="logic">
+      <obj_property name="ElementShortName">add1_hour_bn</obj_property>
+      <obj_property name="ObjectShortName">add1_hour_bn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/counter_all3/normal1/add1_min_bn" type="logic">
+      <obj_property name="ElementShortName">add1_min_bn</obj_property>
+      <obj_property name="ObjectShortName">add1_min_bn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/counter_all3/normal1/out_normal_min" type="array">
+      <obj_property name="ElementShortName">out_normal_min[5:0]</obj_property>
+      <obj_property name="ObjectShortName">out_normal_min[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/counter_all3/normal1/out_normal_second" type="array">
+      <obj_property name="ElementShortName">out_normal_second[5:0]</obj_property>
+      <obj_property name="ObjectShortName">out_normal_second[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/counter_all3/normal1/out_normal_hour" type="array">
+      <obj_property name="ElementShortName">out_normal_hour[4:0]</obj_property>
+      <obj_property name="ObjectShortName">out_normal_hour[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/counter_all3/normal1/counter_sum" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">counter_sum[16:0]</obj_property>
+      <obj_property name="ObjectShortName">counter_sum[16:0]</obj_property>
+      <obj_property name="label">counter_sum_normal[16:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/led_out_hour1_n" type="array">
+      <obj_property name="ElementShortName">led_out_hour1_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_hour1_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/led_out_hour2_n" type="array">
+      <obj_property name="ElementShortName">led_out_hour2_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_hour2_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/led_out_min1_n" type="array">
+      <obj_property name="ElementShortName">led_out_min1_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_min1_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/led_out_min2_n" type="array">
+      <obj_property name="ElementShortName">led_out_min2_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_min2_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/led_out_second1_n" type="array">
+      <obj_property name="ElementShortName">led_out_second1_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_second1_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/led_out_second2_n" type="array">
+      <obj_property name="ElementShortName">led_out_second2_n[6:0]</obj_property>
+      <obj_property name="ObjectShortName">led_out_second2_n[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/control" type="array">
+      <obj_property name="ElementShortName">control[1:0]</obj_property>
+      <obj_property name="ObjectShortName">control[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/normal_min" type="array">
+      <obj_property name="ElementShortName">normal_min[5:0]</obj_property>
+      <obj_property name="ObjectShortName">normal_min[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/normal_second" type="array">
+      <obj_property name="ElementShortName">normal_second[5:0]</obj_property>
+      <obj_property name="ObjectShortName">normal_second[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/alarm_min" type="array">
+      <obj_property name="ElementShortName">alarm_min[5:0]</obj_property>
+      <obj_property name="ObjectShortName">alarm_min[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/counter_min" type="array">
+      <obj_property name="ElementShortName">counter_min[5:0]</obj_property>
+      <obj_property name="ObjectShortName">counter_min[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/counter_second" type="array">
+      <obj_property name="ElementShortName">counter_second[5:0]</obj_property>
+      <obj_property name="ObjectShortName">counter_second[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/normal_hour" type="array">
+      <obj_property name="ElementShortName">normal_hour[4:0]</obj_property>
+      <obj_property name="ObjectShortName">normal_hour[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/alarm_hour" type="array">
+      <obj_property name="ElementShortName">alarm_hour[4:0]</obj_property>
+      <obj_property name="ObjectShortName">alarm_hour[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/counter_hour" type="array">
+      <obj_property name="ElementShortName">counter_hour[4:0]</obj_property>
+      <obj_property name="ObjectShortName">counter_hour[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/alarm_second" type="array">
+      <obj_property name="ElementShortName">alarm_second[5:0]</obj_property>
+      <obj_property name="ObjectShortName">alarm_second[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/out_hour" type="array">
+      <obj_property name="ElementShortName">out_hour[5:0]</obj_property>
+      <obj_property name="ObjectShortName">out_hour[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/out_min" type="array">
+      <obj_property name="ElementShortName">out_min[5:0]</obj_property>
+      <obj_property name="ObjectShortName">out_min[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/debug2_tb/uut/screen_display1/out_second" type="array">
+      <obj_property name="ElementShortName">out_second[5:0]</obj_property>
+      <obj_property name="ObjectShortName">out_second[5:0]</obj_property>
+   </wvobject>
+</wave_config>

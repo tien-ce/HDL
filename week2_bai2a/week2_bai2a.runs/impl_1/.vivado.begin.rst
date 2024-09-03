@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="15152" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="15176" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="6424" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="15592" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="20892" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="19500" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="11088" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="21964" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="5280" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>

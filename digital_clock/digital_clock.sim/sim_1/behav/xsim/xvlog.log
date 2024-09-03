@@ -1,0 +1,63 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/Risingedge.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RisingEdgeDetector
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/add/add.srcs/sources_1/new/add.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/alarm/project_5.srcs/sources_1/new/alarm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alarm
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/alarm/project_5.srcs/sources_1/new/alarm_hour.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alarm_hour
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/alarm/project_5.srcs/sources_1/new/alram_min.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alarm_min
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/week2_bai3/week2_bai3.srcs/sources_1/new/bin2led7.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin2led7
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/bin2_led7_2/bin2_led7_2.srcs/sources_1/new/bin2led7_2led.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin2led7_2led
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/digital_clock/digital_clock.srcs/sources_1/new/bin2led7_2led_hour.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin2led7_2led_hour
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/control/control.srcs/sources_1/new/control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/control_all/control_all.srcs/sources_1/new/control_all.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_all
+WARNING: [VRFC 10-2938] 'control_out' is already implicitly declared on line 28 [C:/Users/thuyh/OneDrive/Documents/control_all/control_all.srcs/sources_1/new/control_all.v:29]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_hour.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_hour
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_min.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_min
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_second.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_second
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_sum.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_sum
+WARNING: [VRFC 10-2379] empty port in module declaration [C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/counter_sum.v:24]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/create1hz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module create1hz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/digital_clock/digital_clock.srcs/sources_1/new/digital_clock.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module digital_clock
+WARNING: [VRFC 10-2938] 'control_out' is already implicitly declared on line 33 [C:/Users/thuyh/OneDrive/Documents/digital_clock/digital_clock.srcs/sources_1/new/digital_clock.v:37]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/function/function.srcs/sources_1/new/function.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_all
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/led_alarm/led_alarm.srcs/sources_1/new/led_alarm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_alarm
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/Mux_3_to_1/Mux_3_to_1.srcs/sources_1/new/mux_3to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_3to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/digital_clock/digital_clock.srcs/sources_1/new/mux_3to1_hour.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_3to1_hour
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module normal
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_hour.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module normal_hour
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_min.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module normal_min
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_second.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module normal_second
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/normal/normal.srcs/sources_1/new/normal_sum.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module normal_sum
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/counter_/counter_.srcs/sources_1/new/pause.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pause
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/reset/reset.srcs/sources_1/new/reset.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reset
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/screen_díplay/screen_díplay.srcs/sources_1/new/screen_display.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module screen_display
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/digital_clock/digital_clock.srcs/sim_1/new/digital_clock_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module digital_clock_tb

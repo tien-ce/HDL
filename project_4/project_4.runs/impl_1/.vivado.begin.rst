@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="20540" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="15060" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>
+<?xml version="1.0"?>
+<ProcessHandle Version="1" Minor="0">
+    <Process Command="vivado.bat" Owner="thuyh" Host="DESKTOP-QVN4KUM" Pid="20572" HostCore="8" HostMemory="08485392384">
+    </Process>
+</ProcessHandle>

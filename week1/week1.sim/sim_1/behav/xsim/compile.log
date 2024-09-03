@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/project_1/project_1.srcs/sources_1/new/Bai1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module w1
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'b0' is not allowed [C:/Users/thuyh/OneDrive/Documents/project_1/project_1.srcs/sources_1/new/Bai1.v:22]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/week1/week1.srcs/sources_1/new/w1_bai1b.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2_to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thuyh/OneDrive/Documents/week1/week1.srcs/sources_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2to1_tb

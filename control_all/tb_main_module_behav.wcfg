@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_main_module_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb_main_module" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="317.501 ns"></ZoomEndTime>
+      <Cursor1Time time="790.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="120"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wvobject fp_name="/tb_main_module/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/add1hour" type="logic">
+      <obj_property name="ElementShortName">add1hour</obj_property>
+      <obj_property name="ObjectShortName">add1hour</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/add1min" type="logic">
+      <obj_property name="ElementShortName">add1min</obj_property>
+      <obj_property name="ObjectShortName">add1min</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/select" type="logic">
+      <obj_property name="ElementShortName">select</obj_property>
+      <obj_property name="ObjectShortName">select</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/add1hour_normal" type="logic">
+      <obj_property name="ElementShortName">add1hour_normal</obj_property>
+      <obj_property name="ObjectShortName">add1hour_normal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/add1min_normal" type="logic">
+      <obj_property name="ElementShortName">add1min_normal</obj_property>
+      <obj_property name="ObjectShortName">add1min_normal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/add1hour_alarm" type="logic">
+      <obj_property name="ElementShortName">add1hour_alarm</obj_property>
+      <obj_property name="ObjectShortName">add1hour_alarm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/add1min_alarm" type="logic">
+      <obj_property name="ElementShortName">add1min_alarm</obj_property>
+      <obj_property name="ObjectShortName">add1min_alarm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/pause_counter" type="logic">
+      <obj_property name="ElementShortName">pause_counter</obj_property>
+      <obj_property name="ObjectShortName">pause_counter</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/rst_normal" type="logic">
+      <obj_property name="ElementShortName">rst_normal</obj_property>
+      <obj_property name="ObjectShortName">rst_normal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/clk_1hz" type="logic">
+      <obj_property name="ElementShortName">clk_1hz</obj_property>
+      <obj_property name="ObjectShortName">clk_1hz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/rst_alarm" type="logic">
+      <obj_property name="ElementShortName">rst_alarm</obj_property>
+      <obj_property name="ObjectShortName">rst_alarm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_main_module/rst_counter" type="logic">
+      <obj_property name="ElementShortName">rst_counter</obj_property>
+      <obj_property name="ObjectShortName">rst_counter</obj_property>
+   </wvobject>
+</wave_config>

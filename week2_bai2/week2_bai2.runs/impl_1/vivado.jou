@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat May 25 15:24:58 2024
+# Process ID: 12020
+# Current directory: C:/Users/thuyh/OneDrive/Documents/week2_bai2/week2_bai2.runs/impl_1
+# Command line: vivado.exe -log d_flipflop.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source d_flipflop.tcl -notrace
+# Log file: C:/Users/thuyh/OneDrive/Documents/week2_bai2/week2_bai2.runs/impl_1/d_flipflop.vdi
+# Journal file: C:/Users/thuyh/OneDrive/Documents/week2_bai2/week2_bai2.runs/impl_1\vivado.jou
+# Running On: DESKTOP-QVN4KUM, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 8485 MB
+#-----------------------------------------------------------
+source d_flipflop.tcl -notrace

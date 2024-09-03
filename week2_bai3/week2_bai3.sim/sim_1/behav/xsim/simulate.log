@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+At the time                10000, enable = 0,bin_in = 0100,led_out = 1111111
+At the time                20000, enable = 1,bin_in = 0100,led_out = 1001100
+At the time                30000, enable = 1,bin_in = 0000,led_out = 0000001
+At the time                40000, enable = 1,bin_in = 0011,led_out = 0000110
+At the time                50000, enable = 1,bin_in = 1100,led_out = 0000001
+$finish called at time : 60 ns : File "C:/Users/thuyh/OneDrive/Documents/week2_bai3/week2_bai3.srcs/sim_1/new/bin2led7_tb.v" Line 44

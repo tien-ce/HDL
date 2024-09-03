@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../Risingedge.v" \
+"../../../../normal.srcs/sources_1/new/normal.v" \
+"../../../../normal.srcs/sources_1/new/normal_hour.v" \
+"../../../../normal.srcs/sources_1/new/normal_min.v" \
+"../../../../normal.srcs/sources_1/new/normal_second.v" \
+"../../../../normal.srcs/sources_1/new/normal_sum.v" \
+"../../../../normal.srcs/sim_1/new/normal_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

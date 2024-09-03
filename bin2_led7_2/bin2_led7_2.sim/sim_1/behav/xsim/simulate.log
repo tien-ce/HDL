@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Input:  5, LED1: 0000001, LED2: 0100100
+Input: 12, LED1: 1001111, LED2: 0010010
+Input: 59, LED1: 0100100, LED2: 0000100
+$finish called at time : 130 ns : File "C:/Users/thuyh/OneDrive/Documents/bin2_led7_2/bin2_led7_2.srcs/sim_1/new/bin2led7_2ledtb.v" Line 69
